@@ -49,7 +49,7 @@ pip install tensorflow numpy matplotlib scikit-learn opencv-python
 1.  **Clone the repo**:
 
     ``` bash
-    git clone https://github.com/shahin-ro/cifar10-classifier.git
+    git clone https://github.com/shahin-ro/CIFAR-10-Image-Detection.git
     ```
 
 2.  **Run the notebook**: Open `CIFAR_10_Image_Detection.ipynb` in
